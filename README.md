@@ -9,3 +9,10 @@ Machine Learning is the most transformative technology of our time. Whether its 
 With This Motivation, I have also started my journey of  [#100DaysOfMLCode](https://twitter.com/search?q=%20%23100DaysOfMLCode&src=typd). 
 
 Let's Begin. 
+
+## Day 1: Data PreProcessing
+*  Pre-processing refers to the transformations applied to our data before feeding it to the algorithm.
+* Data Preprocessing is a technique that is used to convert the raw data into a clean data set. In other words, whenever the data is gathered from different sources it is collected in raw format which is not feasible for the analysis.
+ 
+ [Check it](https://www.geeksforgeeks.org/data-preprocessing-machine-learning-python/)
+ ![Data PreProcessing](https://www.geeksforgeeks.org/wp-content/uploads/ml.png)
