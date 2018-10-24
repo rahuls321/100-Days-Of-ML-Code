@@ -1,1 +1,11 @@
 # 100-Days-Of-ML-Code
+
+100 Days Of Machine Learning Code Challenge inspired by [Siraj Raval](https://github.com/llSourcell/100_Days_of_ML_Code)
+
+# Motivation
+
+Machine Learning is the most transformative technology of our time. Whether its helping us discover new drugs for major diseases, fighting fraud, generating music, improving supply chain efficiency, the list of applications are truly endless. In order for us as a community to be able to make valuable contributions to the world, we need to master this technology. This is a call to action, a battle cry, a spark that will light a movement to radically improve the state of humanity. 100 Days of ML Code is a committment to better your understanding of this powerful tool by dedicating at least 1 hour of your time everyday to studying and/or coding machine learning for 100 days.
+
+With This Motivation, I have also started my journey of  [#100DaysOfMLCode](https://twitter.com/search?q=%20%23100DaysOfMLCode&src=typd). 
+
+Let's Begin. 
