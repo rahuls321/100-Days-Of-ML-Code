@@ -27,3 +27,5 @@ Of course, it would be simple enough to create a conventional Python function th
 
 Instead, we will give TensorFlow some sample Celsius values (0, 8, 15, 22, 38) and their corresponding Fahrenheit values (32, 46, 59, 72, 100). Then, we will train a model that figures out the above formula through the training process.
 ![Model](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/March/5c7f0af9_tensorflow-l2f1/tensorflow-l2f1.png)
+![Forward Pass](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/March/5c7f0b37_tensorflow-l2f2/tensorflow-l2f2.png)
+![Backpropogation](https://s3.amazonaws.com/video.udacity-data.com/topher/2019/March/5c7f0ba2_tensorflow-l2f3/tensorflow-l2f3.png)
